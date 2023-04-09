@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "MihhM/gDzgQQWCkybjnmOIOgUiEjKYCvIaysbzynFus=",
+  "Source": "WebApplication1Demo",
+  "BasePath": "_content/WebApplication1Demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication1Demo\\wwwroot",
+      "Source": "WebApplication1Demo",
+      "ContentRoot": "C:\\Users\\rajpu\\source\\repos\\WebApplication1Demo\\WebApplication1Demo\\wwwroot\\",
+      "BasePath": "_content/WebApplication1Demo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\rajpu\\source\\repos\\WebApplication1Demo\\WebApplication1Demo\\wwwroot\\css\\site.css",
+      "SourceId": "WebApplication1Demo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rajpu\\source\\repos\\WebApplication1Demo\\WebApplication1Demo\\wwwroot\\",
+      "BasePath": "_content/WebApplication1Demo",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\rajpu\\source\\repos\\WebApplication1Demo\\WebApplication1Demo\\wwwroot\\index.html",
+      "SourceId": "WebApplication1Demo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rajpu\\source\\repos\\WebApplication1Demo\\WebApplication1Demo\\wwwroot\\",
+      "BasePath": "_content/WebApplication1Demo",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\rajpu\\source\\repos\\WebApplication1Demo\\WebApplication1Demo\\wwwroot\\js\\site.js",
+      "SourceId": "WebApplication1Demo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rajpu\\source\\repos\\WebApplication1Demo\\WebApplication1Demo\\wwwroot\\",
+      "BasePath": "_content/WebApplication1Demo",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}
